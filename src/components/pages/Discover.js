@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import API from "/Users/jennifer/gt/sandbox/pupster/src/utils/API.js";
+import API from "../../utils/API.js";
 
 class Discover extends Component {
   state = {
